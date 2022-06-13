@@ -5,5 +5,7 @@ This is Resultlab.AI's startup project. This project is about that showing the d
 
 Firstly I have created the database with pgadmin. Also you can see database diagram in the below. After that we created connection with node.js. Then we managed CRUD operations with RestFull API.
 
+![Untitled](https://user-images.githubusercontent.com/77885953/173410484-58f3671b-0e47-4871-8754-7a4df472172b.png)
+
   
   
