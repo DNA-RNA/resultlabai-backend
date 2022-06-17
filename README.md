@@ -10,7 +10,7 @@ Firstly I have created the database with pgadmin. Also you can see database diag
 
 ## Api Documents
 
-![Uploading Untitled.png…](https://github.com/DNA-RNA/resultlabai-backend/issues/2#issue-1275052999)
+![Untitled](https://user-images.githubusercontent.com/77885953/174311728-ea43bd6e-2dae-441e-98ea-1893e4c89f4c.jpg)
 
   
   
